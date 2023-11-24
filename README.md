@@ -1,4 +1,8 @@
-# FirstProject
+# Costumer Project
+
+Initial design of the Angular course taught by Matheus Battisti on Youtube.
+
+Introduction to the basic concepts and logic of Angular's architecture / operations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
